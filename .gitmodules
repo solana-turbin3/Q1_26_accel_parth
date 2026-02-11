@@ -1,3 +1,6 @@
 [submodule "whitelist-transfer-hook"]
 	path = whitelist-transfer-hook
 	url = https://github.com/parthhcodess/whitelist-transfer-hook
+[submodule "escrow_litesvm"]
+	path = escrow_litesvm
+	url = https://github.com/parthhcodess/escrow_litesvm
